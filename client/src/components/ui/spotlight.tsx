@@ -3,28 +3,6 @@ import { getIcon } from "@client/lib/utils";
 
 import type { LucideIcon } from "lucide-react";
 
-export function StaticSpotlightsGrid({ children }: { children: React.ReactNode[] }) {
-	return (
-		<div className="grid grid-cols-12 gap-2 p-2 h-full">
-			<div className="col-span-10 border border-zinc-800 rounded-sm">
-				<div className="flex flex-col justify-center p-2">
-					{children[0]}
-				</div>
-			</div>
-            <div className="col-start-3 col-span-10 border border-zinc-800 rounded-sm">
-                <div className="flex flex-col justify-center p-2">
-                    {children[1]}
-                </div>
-            </div>
-            <div className="col-span-10 border border-zinc-800 rounded-sm">
-				<div className="flex flex-col justify-center p-2">
-					{children[2]}
-				</div>
-			</div>
-		</div>
-	);
-}
-
 export function SpotlightShell({ children }: { children: React.ReactNode[] }) {
 	return (
 		<div className="flex flex-col md:flex-row gap-2">

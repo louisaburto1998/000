@@ -30,7 +30,7 @@ export function NavBarBrand({ icon, title }: { icon: string, title: string }) {
 
 export function NavBarRoutes({ apps }: { apps: App[] }) {
     return (
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-2 md:-ml-12">
             {apps.map((app) => (
                 <Link key={app.title} to={app.route} className="flex items-center gap-2">
                     <h2 className="text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>

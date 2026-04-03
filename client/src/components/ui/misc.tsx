@@ -1,5 +1,7 @@
 import useEmblaCarousel from "embla-carousel-react";
 
+import { AnnoyedIcon, BugIcon } from "lucide-react";
+
 export function EmblaImgCarousel({ images, title }: { images: string[], title: string }) {
 	const [emblaRef] = useEmblaCarousel({ loop: true });
 	return (
@@ -13,6 +15,24 @@ export function EmblaImgCarousel({ images, title }: { images: string[], title: s
 					))}
 				</div>
 			</div>
+		</div>
+	);
+}
+
+export function Loading() {
+	return (
+		<div className="flex flex-col items-center justify-center gap-2 h-full mt-10">
+			<AnnoyedIcon className="size-12 stroke-zinc-200 hover:stroke-rose-200 animate-spin" />
+			<h1 className="text-base text-zinc-200 hover:text-rose-200 cursor-default">Loading...</h1>
+		</div>
+	);
+}
+
+export function ErrorMessage({ error }: { error: string }) {
+	return (
+		<div className="flex flex-col items-center justify-center gap-2 h-full mt-10">
+			<BugIcon className="size-12 stroke-zinc-200 hover:stroke-rose-200" />
+			<h1 className="text-base text-zinc-200 hover:text-rose-200 cursor-default">{error}</h1>
 		</div>
 	);
 }

@@ -7,10 +7,21 @@ import { tanstackRouter } from "@tanstack/router-plugin/vite";
 
 const rootDir = path.dirname(fileURLToPath(import.meta.url));
 
+/** Same default as server (`PORT` / Bun); override with `PORT` in env when both run via turbo. */
+const apiDevPort = Number(process.env.PORT) || 3001;
+
 export default defineConfig({
 	resolve: {
 		alias: {
 			"@client": path.join(rootDir, "src"),
+		},
+	},
+	server: {
+		proxy: {
+			"/api": {
+				target: `http://localhost:${apiDevPort}`,
+				changeOrigin: true,
+			},
 		},
 	},
 	plugins: [
