@@ -11,7 +11,7 @@ export type App = z.infer<typeof appSchema>;
 export const adminSchema = z.object({
     version: z.string(),
 	icon: z.string(),
-    url: z.string(),
+    url: z.url(),
     apps: z.array(appSchema),
 });
 
