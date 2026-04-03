@@ -9,7 +9,7 @@ import {
 
 export function SpotlightCard({ spotlight }: { spotlight: Spotlight }) {
 	return (
-        <div className="border border-zinc-800 rounded-sm p-2">
+        <div className="border border-zinc-800 rounded-sm p-2 w-full">
             <SpotlightHeader icon={spotlight.icon} route={spotlight.route} title={spotlight.title} url={spotlight.url} />
             <SpotlightShell>
                 <EmblaImgCarousel images={spotlight.imgs} title={spotlight.title} />

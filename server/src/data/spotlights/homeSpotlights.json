@@ -1,22 +1,21 @@
 [
-	{
-		"title": "[ST 058] Betrayal",
-		"route": "/ear",
-		"icon": "Ear",
-		"url": "https://www.discogs.com/release/20475-Muslimgauze-Betrayal",
-		"imgs": [
-			"https://i.discogs.com/sboQ3NK09rf4VKVg4IoNyFqT7iGY1t3NAGjp0VXZiTQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDUt/MTEwOC5qcGVn.jpeg",
-			"https://i.discogs.com/yaQ4CefnDDlxCLyF-y5mWkmtGQ034BlyV1ojA_2zbCg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDUt/OTc0OS5qcGVn.jpeg",
-			"https://i.discogs.com/OYRmz-D3NjF1-U1AJl7otLfSgYnvQAReyYcBYXv798g/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDYt/MzcyMS5qcGVn.jpeg"
-		],
-		"info": {
-			"Artist": "Muslimgauze",
-            "Label": "Staalplaat",
-            "Release Year": "1993",
-            "Genre": "Electronic",
-            "Notes": "'Dedicated to a united Arab response'"
-		}
-	},
+    {
+        "title": "portfolio0",
+        "route": "/brain",
+        "icon": "Brain",
+        "url": "https://github.com/louisaburto1998/000",
+        "imgs": [
+            "https://assets.vectorhead.org/static/binary-blue.gif",
+            "https://assets.vectorhead.org/static/monorepo.png"
+        ],
+        "info": {
+            "Version": "0.0.0",
+            "Author": "Louis Aburto",
+            "Stack": "BHVR [bun, hono, vite, react]",
+            "Language": "TypeScript",
+            "Description": "Personal portfolio / blog"
+        }
+    },
     {
         "title": "Tom Morgan",
         "route": "/eye",
@@ -29,6 +28,21 @@
         ],
         "info": {
             "Bio": "Black & White photography"
+        }
+    },
+	{
+        "title": "'When We Let Go' EP",
+        "route": "/ear",
+        "icon": "Ear",
+        "url": "https://naimaadams.bandcamp.com/album/when-we-let-go",
+        "imgs": [
+            "https://f4.bcbits.com/img/a2871094813_10.jpg",
+            "https://f4.bcbits.com/img/0043670488_10.jpg"
+        ],
+        "info": {
+            "Artist": "Naima Adams",
+            "Realease Date": "May 27, 2026",
+            "Bio": "Presenting her debut project, South London-based artist/vocalist Naima Adams returns with 'When We Let Go EP', a collection of spirited soul/contemporary R&B cuts & personal storytelling connected by kindred tussles with acceptance, closure, endurance and freeing one's past; it's a flag in the sand, not only personally but artistically."
         }
     }
 ]

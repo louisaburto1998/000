@@ -3,9 +3,12 @@ import {
     AnnoyedIcon,
     BrainIcon,
     createLucideIcon,
+    Disc3Icon,
     EarIcon,
     EyeIcon,
+    FactoryIcon,
     OrigamiIcon,
+    UserIcon,
 } from "lucide-react";
 
 export const GithubIcon = createLucideIcon("Github", [
@@ -17,14 +20,20 @@ export function getIcon(icon: string): LucideIcon {
     switch (icon) {
         case "Brain":
             return BrainIcon;
+        case "Disc3":
+            return Disc3Icon;
         case "Ear":
             return EarIcon;
         case "Eye":
             return EyeIcon;
         case "Github":
             return GithubIcon;
+        case "Factory":
+            return FactoryIcon;
         case "Origami":
             return OrigamiIcon;
+        case "User":
+            return UserIcon;
         default:
             return AnnoyedIcon;
     }

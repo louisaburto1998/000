@@ -9,3 +9,13 @@ export async function fetchHomeSpotlights() {
 	const json: unknown = await res.json();
 	return json as Spotlight[];
 }
+
+export async function fetchEarSpotlights() {
+	const res = await fetch("/api/spotlights/ear");
+	if (!res.ok) {
+		const body = await res.text();
+		throw new Error(body || `${res.status} ${res.statusText}`);
+	}
+	const json: unknown = await res.json();
+	return json as Spotlight[];
+}

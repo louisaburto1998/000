@@ -1,0 +1,39 @@
+[
+    {
+        "title": "[ST 058] Betrayal",
+        "route": "ear/albums",
+        "icon": "Disc3",
+        "url": "https://www.discogs.com/release/20475-Muslimgauze-Betrayal",
+        "imgs": [
+            "https://i.discogs.com/sboQ3NK09rf4VKVg4IoNyFqT7iGY1t3NAGjp0VXZiTQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDUt/MTEwOC5qcGVn.jpeg",
+            "https://i.discogs.com/yaQ4CefnDDlxCLyF-y5mWkmtGQ034BlyV1ojA_2zbCg/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDUt/OTc0OS5qcGVn.jpeg",
+            "https://i.discogs.com/OYRmz-D3NjF1-U1AJl7otLfSgYnvQAReyYcBYXv798g/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDYt/MzcyMS5qcGVn.jpeg"
+        ],
+        "info": {
+            "Artist": "Muslimgauze",
+            "Label": "Staalplaat",
+            "Release Year": "1993",
+            "Genre": "Experimental",
+            "Notes": "'Dedicated to a united Arab response'"
+        }
+    },
+    {
+        "title": "[RSD 001] Rhythm & Sound",
+        "route": "ear/albums",
+        "icon": "Disc3",
+        "url": "https://www.discogs.com/release/17061-Rhythm-Sound-Rhythm-Sound",
+        "imgs": [
+            "https://i.discogs.com/rCabZ9cymvPKsNCLAX3vb-FZmAK8XZI3Pyp23gB5zBs/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDYt/NDk5Ny5qcGVn.jpeg",
+            "https://i.discogs.com/TWrHiPbolMLbBocqGtJXogPXq-sBAW8FtYUTf7Z5H7I/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDUt/Njg2MC5qcGVn.jpeg",
+            "https://i.discogs.com/K7-a_uPK92eiIKIvQeeIumbx8DHs2EvbdN6434o0280/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDQt/ODMwOS5qcGVn.jpeg"
+        ],
+        "info": {
+            "Artist": "Rhythm & Sound",
+            "Label": "Rhythm & Sound",
+            "Release Year": "2001",
+            "Genre": "Dub Techno",
+            "Notes": "Compilation of tracks from R&S 12\" releases"
+            
+        }
+    }
+]
