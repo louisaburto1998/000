@@ -1,9 +1,11 @@
+import type { LucideIcon } from "lucide-react";
 import {
     AnnoyedIcon,
     BrainIcon,
     createLucideIcon,
     EarIcon,
     EyeIcon,
+    OrigamiIcon,
 } from "lucide-react";
 
 export const GithubIcon = createLucideIcon("Github", [
@@ -11,7 +13,7 @@ export const GithubIcon = createLucideIcon("Github", [
     ["path", { d: "M9 18c-4.51 2-5-2-7-2" }],
 ]);
 
-export function getIcon(icon: string) {
+export function getIcon(icon: string): LucideIcon {
     switch (icon) {
         case "Brain":
             return BrainIcon;
@@ -21,6 +23,8 @@ export function getIcon(icon: string) {
             return EyeIcon;
         case "Github":
             return GithubIcon;
+        case "Origami":
+            return OrigamiIcon;
         default:
             return AnnoyedIcon;
     }
