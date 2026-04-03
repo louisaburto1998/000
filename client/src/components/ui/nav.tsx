@@ -22,7 +22,7 @@ export function NavBarBrand({ icon, title }: { icon: string, title: string }) {
         <div className="flex items-center gap-2">
             <Link to="/" className="flex items-center gap-2">
                 <Icon className="size-4 stroke-zinc-200 hover:stroke-teal-200" />
-                <h1 className="text-sm text-zinc-200 hover:text-teal-200">{title}</h1>
+                <h1 className="hidden md:block text-sm text-zinc-200 hover:text-teal-200">{title}</h1>
             </Link>
         </div>
     );
@@ -30,7 +30,7 @@ export function NavBarBrand({ icon, title }: { icon: string, title: string }) {
 
 export function NavBarRoutes({ apps }: { apps: App[] }) {
     return (
-        <div className="flex items-center gap-2 -ml-10">
+        <div className="flex items-center gap-2">
             {apps.map((app) => (
                 <Link key={app.title} to={app.route} className="flex items-center gap-2">
                     <h2 className="text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>

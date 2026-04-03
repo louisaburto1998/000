@@ -11,6 +11,12 @@ coverage
 dist
 build
 
+# Accidental `tsc` emit next to TypeScript sources (root had noEmit off + allowJs)
+client/src/**/*.js
+server/src/**/*.js
+shared/src/**/*.js
+client/vite.config.js
+
 # misc
 .DS_Store
 .env
