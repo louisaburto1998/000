@@ -1,32 +1,28 @@
 import { createFileRoute } from "@tanstack/react-router";
-import { useQuery } from "@tanstack/react-query";
+import { Outlet } from "@tanstack/react-router";
 
-import { fetchEarSpotlights } from "@client/lib/apis";
+import {
+	NavBarSubHeader,
+	NavBarSubRoutes
+} from "@client/components/ui/nav";
 
-import { SpotlightCard } from "@client/components/spotlight-card";
-import { Loading, ErrorMessage } from "@client/components/ui/misc";
+import { earApps } from "@client/lib/admin";
 
 export const Route = createFileRoute("/ear")({
 	component: RouteComponent,
 });
 
 function RouteComponent() {
-	const { data, isPending, isError, error } = useQuery({
-		queryKey: ["spotlights", "ear"],
-		queryFn: fetchEarSpotlights,
-	});
-	if (isError) {
-		return <ErrorMessage error={error.message} />;
-	}
 	return (
-		isPending ? (
-			<Loading />
-		) : (
-			<div className="flex flex-col items-center justify-center w-full p-2 gap-2">
-				{data.map(spotlight => (
-					<SpotlightCard key={spotlight.title} spotlight={spotlight} />
+		<>
+			<NavBarSubHeader>
+				{earApps.map((app) => (
+					<NavBarSubRoutes key={app.title} app={app} />
 				))}
+			</NavBarSubHeader>
+			<div className="flex flex-col items-center justify-center w-full p-2 gap-2">
+				<Outlet />
 			</div>
-		)
-	);
+		</>
+	)
 }

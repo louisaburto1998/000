@@ -3,7 +3,7 @@ import { admin } from "@client/lib/admin"
 import {
     BodyInset,
     NavBarBrand,
-    NavbarGithub,
+    NavBarGithub,
     NavBarHeader,
     NavBarRoutes,
 } from "@client/components/ui/nav"
@@ -14,7 +14,7 @@ export function Navbar({ children }: { children: React.ReactNode }) {
             <NavBarHeader>
                 <NavBarBrand icon={admin.icon} title={admin.version} />
                 <NavBarRoutes apps={admin.apps} />
-                <NavbarGithub url={admin.url} />
+                <NavBarGithub url={admin.url} />
             </NavBarHeader>
             <BodyInset>
                 {children}

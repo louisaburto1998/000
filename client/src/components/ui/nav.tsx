@@ -40,7 +40,7 @@ export function NavBarRoutes({ apps }: { apps: App[] }) {
     );
 }
 
-export function NavbarGithub({ url }: { url: string }) {
+export function NavBarGithub({ url }: { url: string }) {
 	return (
 		<div className="flex items-center">
 			<a href={url} target="_blank" rel="noopener noreferrer">
@@ -52,12 +52,34 @@ export function NavbarGithub({ url }: { url: string }) {
 
 export function BodyInset({ children }: { children: React.ReactNode }) {
     return (
-        <div className="fixed inset-x-0 top-10 bottom-0 p-2">
-            <div className="h-full min-h-0 w-full overflow-y-auto bg-black border border-zinc-800 rounded-sm">
+        <div className="fixed inset-x-0 top-10 bottom-0">
+            <div className="h-full min-h-0 w-full overflow-y-auto bg-black border border-zinc-800">
                 <div className="flex w-full flex-col">
                     {children}
                 </div>
             </div>
         </div>
+    );
+}
+
+export function NavBarSubHeader({ children }: { children: React.ReactNode }) {
+    return (
+        <div className="sticky top-0 z-10 border-b border-zinc-800">
+            <div className="bg-black w-full">
+                <div className="flex h-8 items-center justify-center mx-4 gap-2">
+                    {children}
+                </div>
+            </div>
+        </div>
+    );
+}
+
+export function NavBarSubRoutes({ app }: { app: App }) {
+    const Icon = getIcon(app.icon) as LucideIcon;
+    return (
+        <Link key={app.title} to={app.route} className="flex items-center gap-1">
+            <Icon className="size-4 stroke-zinc-200 hover:stroke-teal-200" />
+            <h2 className="text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>
+        </Link>
     );
 }

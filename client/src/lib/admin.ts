@@ -1,4 +1,4 @@
-import type { Admin } from "shared";
+import type { Admin, App } from "shared";
 
 export const admin: Admin = {
     version: "0.0.0",
@@ -22,3 +22,21 @@ export const admin: Admin = {
         },
     ],
 };
+
+export const earApps: App[] = [
+    {
+        title: "Albums",
+        icon: "Disc3",
+        route: "/ear/albums",
+    },
+    {
+        title: "Artists",
+        icon: "User",
+        route: "/ear/artists",
+    },
+    {
+        title: "Labels",
+        icon: "Factory",
+        route: "/ear/labels",
+    },
+];

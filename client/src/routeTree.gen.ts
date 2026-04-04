@@ -11,6 +11,8 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as EarRouteImport } from './routes/ear'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as EarIndexRouteImport } from './routes/ear.index'
+import { Route as EarSegmentRouteImport } from './routes/ear.$segment'
 
 const EarRoute = EarRouteImport.update({
   id: '/ear',
@@ -22,31 +24,46 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const EarIndexRoute = EarIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => EarRoute,
+} as any)
+const EarSegmentRoute = EarSegmentRouteImport.update({
+  id: '/$segment',
+  path: '/$segment',
+  getParentRoute: () => EarRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/ear': typeof EarRoute
+  '/ear': typeof EarRouteWithChildren
+  '/ear/$segment': typeof EarSegmentRoute
+  '/ear/': typeof EarIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/ear': typeof EarRoute
+  '/ear/$segment': typeof EarSegmentRoute
+  '/ear': typeof EarIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/ear': typeof EarRoute
+  '/ear': typeof EarRouteWithChildren
+  '/ear/$segment': typeof EarSegmentRoute
+  '/ear/': typeof EarIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/ear'
+  fullPaths: '/' | '/ear' | '/ear/$segment' | '/ear/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/ear'
-  id: '__root__' | '/' | '/ear'
+  to: '/' | '/ear/$segment' | '/ear'
+  id: '__root__' | '/' | '/ear' | '/ear/$segment' | '/ear/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  EarRoute: typeof EarRoute
+  EarRoute: typeof EarRouteWithChildren
 }
 
 declare module '@tanstack/react-router' {
@@ -65,12 +82,38 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/ear/': {
+      id: '/ear/'
+      path: '/'
+      fullPath: '/ear/'
+      preLoaderRoute: typeof EarIndexRouteImport
+      parentRoute: typeof EarRoute
+    }
+    '/ear/$segment': {
+      id: '/ear/$segment'
+      path: '/$segment'
+      fullPath: '/ear/$segment'
+      preLoaderRoute: typeof EarSegmentRouteImport
+      parentRoute: typeof EarRoute
+    }
   }
 }
 
+interface EarRouteChildren {
+  EarSegmentRoute: typeof EarSegmentRoute
+  EarIndexRoute: typeof EarIndexRoute
+}
+
+const EarRouteChildren: EarRouteChildren = {
+  EarSegmentRoute: EarSegmentRoute,
+  EarIndexRoute: EarIndexRoute,
+}
+
+const EarRouteWithChildren = EarRoute._addFileChildren(EarRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  EarRoute: EarRoute,
+  EarRoute: EarRouteWithChildren,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
