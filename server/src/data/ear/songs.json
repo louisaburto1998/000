@@ -1,0 +1,1490 @@
+[
+    {
+        "id": 1,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 1,
+        "name": "Nabius",
+        "duration": 262,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 2,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 2,
+        "name": "Bloodstain",
+        "duration": 366,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 3,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 3,
+        "name": "Bloodstain",
+        "duration": 441,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 4,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 4,
+        "name": "Druse",
+        "duration": 447,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 5,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 5,
+        "name": "Druse",
+        "duration": 214,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 6,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 6,
+        "name": "Nabius",
+        "duration": 358,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 7,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 7,
+        "name": "Ramallah",
+        "duration": 624,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 8,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 8,
+        "name": "Vensarkah",
+        "duration": 375,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 9,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 9,
+        "name": "Ramallah",
+        "duration": 689,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 10,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 10,
+        "name": "Jaffa",
+        "duration": 375,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 11,
+        "album": 1,
+        "artists": [
+            1
+        ],
+        "join_sa": "Muslimgauze",
+        "remix": [],
+        "number": 11,
+        "name": "Jaffa",
+        "duration": 420,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 12,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 1,
+        "name": "Bad Boy Dance (In The Dance Mix)",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 13,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 2,
+        "name": "Bad Boy Dance (Bad Boy On Mars Mix)",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 14,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 3,
+        "name": "Bad Boy Dance (Dope Mix)",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 15,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 4,
+        "name": "Bad Boy Dance (High Gravity Mix)",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 16,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 5,
+        "name": "Bad Boy Dance (Brown Cave Mix)",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 17,
+        "album": 2,
+        "artists": [
+            2
+        ],
+        "join_sa": "Bobby Konders",
+        "remix": [],
+        "number": 6,
+        "name": "Bad Boy Dance (Xrolls Groove)",
+        "duration": null,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 18,
+        "album": 3,
+        "artists": [
+            4
+        ],
+        "join_sa": "Melchior Productions Ltd",
+        "remix": [],
+        "number": 1,
+        "name": "Feeling",
+        "duration": 825,
+        "rating": 5,
+        "notes": "{\"played\":\"Rhadoo @ Pickle Factory\"}"
+    },
+    {
+        "id": 19,
+        "album": 3,
+        "artists": [
+            4
+        ],
+        "join_sa": "Melchior Productions Ltd",
+        "remix": [],
+        "number": 2,
+        "name": "Path Of Life",
+        "duration": 625,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 20,
+        "album": 4,
+        "artists": [
+            5
+        ],
+        "join_sa": "Baby Ford & Zip",
+        "remix": [
+            4
+        ],
+        "number": 1,
+        "name": "Uff (Melchior Productions Ltd Edit)",
+        "duration": 548,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 21,
+        "album": 4,
+        "artists": [
+            5
+        ],
+        "join_sa": "Baby Ford & Zip",
+        "remix": [],
+        "number": 2,
+        "name": "Uffapella",
+        "duration": 145,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 22,
+        "album": 4,
+        "artists": [
+            5
+        ],
+        "join_sa": "Baby Ford & Zip",
+        "remix": [],
+        "number": 3,
+        "name": "So They Say",
+        "duration": 382,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 23,
+        "album": 4,
+        "artists": [
+            5
+        ],
+        "join_sa": "Baby Ford & Zip",
+        "remix": [],
+        "number": 4,
+        "name": "Uff",
+        "duration": 396,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 24,
+        "album": 5,
+        "artists": [
+            4
+        ],
+        "join_sa": "Melchior Productions Ltd",
+        "remix": [],
+        "number": 1,
+        "name": "Galera Da Bahia (Mexe A Bunda)",
+        "duration": 416,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 25,
+        "album": 5,
+        "artists": [
+            4
+        ],
+        "join_sa": "Melchior Productions Ltd",
+        "remix": [],
+        "number": 2,
+        "name": "The Later The Evening...",
+        "duration": 436,
+        "rating": 4.5,
+        "notes": "{\"notes\":\"the later the evening the more of a fan you become...\"}"
+    },
+    {
+        "id": 26,
+        "album": 6,
+        "artists": [
+            6
+        ],
+        "join_sa": "Reptant",
+        "remix": [],
+        "number": 1,
+        "name": "Lizard Eyes",
+        "duration": 335,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 27,
+        "album": 6,
+        "artists": [
+            6
+        ],
+        "join_sa": "Reptant",
+        "remix": [],
+        "number": 2,
+        "name": "Polygrams",
+        "duration": 346,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 28,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 1,
+        "name": "No Partial",
+        "duration": 375,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 29,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 2,
+        "name": "Trace",
+        "duration": 444,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 30,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 3,
+        "name": "Mango Drive",
+        "duration": 432,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 31,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 4,
+        "name": "Distance",
+        "duration": 282,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 32,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 5,
+        "name": "Smile",
+        "duration": 553,
+        "rating": 5,
+        "notes": "{\"ft\":\"Savage\"}"
+    },
+    {
+        "id": 33,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 6,
+        "name": "Outward",
+        "duration": 287,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 34,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 7,
+        "name": "Roll Off",
+        "duration": 574,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 35,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 8,
+        "name": "Carrier",
+        "duration": 387,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 36,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 9,
+        "name": "Range",
+        "duration": 390,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 37,
+        "album": 7,
+        "artists": [
+            8
+        ],
+        "join_sa": "Rhythm & Sound",
+        "remix": [],
+        "number": 10,
+        "name": "Imprint",
+        "duration": 1011,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 38,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 1,
+        "name": "Beat",
+        "duration": 437,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 39,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 2,
+        "name": "Empty Words",
+        "duration": 226,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 40,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 3,
+        "name": "Without Stopping",
+        "duration": 314,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 41,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 4,
+        "name": "Under The Sun",
+        "duration": 213,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 42,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 5,
+        "name": "Fear Of Flying",
+        "duration": 339,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 43,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 6,
+        "name": "Looped",
+        "duration": 160,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 44,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 7,
+        "name": "Black Light",
+        "duration": 414,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 45,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 8,
+        "name": "Inside Out",
+        "duration": 440,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 46,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 9,
+        "name": "Coming Down",
+        "duration": 278,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 47,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 10,
+        "name": "Postscript",
+        "duration": 1003,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 48,
+        "album": 8,
+        "artists": [
+            9
+        ],
+        "join_sa": "Bowery Electric",
+        "remix": [],
+        "number": 11,
+        "name": "Low Density",
+        "duration": 436,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 49,
+        "album": 9,
+        "artists": [
+            10
+        ],
+        "join_sa": "Idioma",
+        "remix": [
+            11
+        ],
+        "number": 1,
+        "name": "Landscapes (Tim Paris Remix)",
+        "duration": 525,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 50,
+        "album": 9,
+        "artists": [
+            10
+        ],
+        "join_sa": "Idioma",
+        "remix": [],
+        "number": 2,
+        "name": "Landscapes (Original Version)",
+        "duration": 431,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 51,
+        "album": 9,
+        "artists": [
+            10
+        ],
+        "join_sa": "Idioma",
+        "remix": [
+            12
+        ],
+        "number": 3,
+        "name": "Landscapes (ShitRobot Remix)",
+        "duration": 490,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 52,
+        "album": 10,
+        "artists": [
+            13
+        ],
+        "join_sa": "Acid 909",
+        "remix": [],
+        "number": 1,
+        "name": "@@@",
+        "duration": 456,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 53,
+        "album": 10,
+        "artists": [
+            13
+        ],
+        "join_sa": "Acid 909",
+        "remix": [],
+        "number": 2,
+        "name": "####",
+        "duration": 455,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 54,
+        "album": 11,
+        "artists": [
+            14
+        ],
+        "join_sa": "DJ Normal 4",
+        "remix": [],
+        "number": 1,
+        "name": "Transcendental Training Tactics",
+        "duration": 430,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 55,
+        "album": 11,
+        "artists": [
+            14
+        ],
+        "join_sa": "DJ Normal 4",
+        "remix": [],
+        "number": 2,
+        "name": "Disillusion Pyramid",
+        "duration": 320,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 56,
+        "album": 12,
+        "artists": [
+            15
+        ],
+        "join_sa": "Devin Patrick",
+        "remix": [],
+        "number": 1,
+        "name": "High Flying",
+        "duration": 507,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 57,
+        "album": 12,
+        "artists": [
+            15
+        ],
+        "join_sa": "Devin Patrick",
+        "remix": [],
+        "number": 2,
+        "name": "Thinking Of You",
+        "duration": 412,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 58,
+        "album": 12,
+        "artists": [
+            15
+        ],
+        "join_sa": "Devin Patrick",
+        "remix": [],
+        "number": 3,
+        "name": "All Night",
+        "duration": 370,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 59,
+        "album": 13,
+        "artists": [
+            16
+        ],
+        "join_sa": "LawnChair Generals",
+        "remix": [],
+        "number": 1,
+        "name": "The Truth",
+        "duration": 421,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 60,
+        "album": 13,
+        "artists": [
+            16
+        ],
+        "join_sa": "LawnChair Generals",
+        "remix": [],
+        "number": 2,
+        "name": "Speechless",
+        "duration": 403,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 61,
+        "album": 13,
+        "artists": [
+            16
+        ],
+        "join_sa": "LawnChair Generals",
+        "remix": [],
+        "number": 3,
+        "name": "Watching You",
+        "duration": 403,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 62,
+        "album": 14,
+        "artists": [
+            17
+        ],
+        "join_sa": "Max Brennan",
+        "remix": [],
+        "number": 1,
+        "name": "Pull Thy Boots",
+        "duration": 418,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 63,
+        "album": 14,
+        "artists": [
+            17
+        ],
+        "join_sa": "Max Brennan",
+        "remix": [],
+        "number": 2,
+        "name": "Moove",
+        "duration": 421,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 64,
+        "album": 14,
+        "artists": [
+            17
+        ],
+        "join_sa": "Max Brennan",
+        "remix": [],
+        "number": 3,
+        "name": "Dawn",
+        "duration": 332,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 65,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 1,
+        "name": "I'm Still Here",
+        "duration": 351,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 66,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 2,
+        "name": "Keep Praying",
+        "duration": 177,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 67,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 3,
+        "name": "Today",
+        "duration": 376,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 68,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 4,
+        "name": "It Hurts Me",
+        "duration": 254,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 69,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 5,
+        "name": "Drive",
+        "duration": 291,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 70,
+        "album": 15,
+        "artists": [
+            19
+        ],
+        "join_sa": "The Waves",
+        "remix": [],
+        "number": 6,
+        "name": "Into You",
+        "duration": 294,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 71,
+        "album": 16,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 1,
+        "name": "Easy Lee",
+        "duration": 607,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 72,
+        "album": 16,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 2,
+        "name": "Theogenese",
+        "duration": 556,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 73,
+        "album": 16,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 3,
+        "name": "Bahaha Hahi",
+        "duration": 454,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 74,
+        "album": 16,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 4,
+        "name": "La Raja",
+        "duration": 360,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 75,
+        "album": 16,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 5,
+        "name": "I Try To Live (Can I Live)",
+        "duration": 562,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 76,
+        "album": 16,
+        "artists": [],
+        "join_sa": null,
+        "remix": [],
+        "number": 6,
+        "name": "Quizás",
+        "duration": 443,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 77,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 1,
+        "name": "Easy Lee",
+        "duration": 607,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 78,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 2,
+        "name": "Theogenese",
+        "duration": 556,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 79,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 3,
+        "name": "Bahaha Hahi",
+        "duration": 454,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 80,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 4,
+        "name": "La Raja",
+        "duration": 360,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 81,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 5,
+        "name": "I Try To Live (Can I Live)",
+        "duration": 562,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 82,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 6,
+        "name": "Quizás",
+        "duration": 443,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 83,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 7,
+        "name": "Fusion The Enemies",
+        "duration": 439,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 84,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 8,
+        "name": "Dexter",
+        "duration": 546,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 85,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 9,
+        "name": "Bach To Back",
+        "duration": 558,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 86,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 10,
+        "name": "Y.G.H.",
+        "duration": 497,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 87,
+        "album": 17,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 11,
+        "name": "Waiworinao",
+        "duration": 491,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 88,
+        "album": 18,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 1,
+        "name": "Bach To Back",
+        "duration": 563,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 89,
+        "album": 18,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 2,
+        "name": "Fools Garden (Black Conga)",
+        "duration": 465,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 90,
+        "album": 18,
+        "artists": [
+            20
+        ],
+        "join_sa": "Ricardo Villalobos",
+        "remix": [],
+        "number": 3,
+        "name": "Waiworinao",
+        "duration": 490,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 91,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 1,
+        "name": "Opium",
+        "duration": 930,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 92,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 2,
+        "name": "Nostep",
+        "duration": 218,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 93,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 3,
+        "name": "Expressure",
+        "duration": 301,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 94,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 4,
+        "name": "What You Call A Life",
+        "duration": 300,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 95,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 5,
+        "name": "Water",
+        "duration": 279,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 96,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 6,
+        "name": "Brilliance",
+        "duration": 431,
+        "rating": 4.5,
+        "notes": null
+    },
+    {
+        "id": 97,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 7,
+        "name": "Dead (Too)",
+        "duration": 371,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 98,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 8,
+        "name": "Damaged III",
+        "duration": 269,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 99,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 9,
+        "name": "Release",
+        "duration": 267,
+        "rating": 4,
+        "notes": null
+    },
+    {
+        "id": 100,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 10,
+        "name": "High Life (Theme)",
+        "duration": 665,
+        "rating": 3.5,
+        "notes": null
+    },
+    {
+        "id": 101,
+        "album": 19,
+        "artists": [
+            21
+        ],
+        "join_sa": "Christoph De Babalon",
+        "remix": [],
+        "number": 11,
+        "name": "My Confession",
+        "duration": 594,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 102,
+        "album": 20,
+        "artists": [
+            22
+        ],
+        "join_sa": "Benny Blanko",
+        "remix": [],
+        "number": 1,
+        "name": "All The Way Down",
+        "duration": 307,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 103,
+        "album": 20,
+        "artists": [
+            22
+        ],
+        "join_sa": "Benny Blanko",
+        "remix": [],
+        "number": 2,
+        "name": "Keep Bouncin!",
+        "duration": 331,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 104,
+        "album": 20,
+        "artists": [
+            22
+        ],
+        "join_sa": "Benny Blanko",
+        "remix": [],
+        "number": 3,
+        "name": "All The Way Down (Dobies Bedroom Mute Mix)",
+        "duration": 333,
+        "rating": null,
+        "notes": null
+    },
+    {
+        "id": 105,
+        "album": 21,
+        "artists": [
+            23
+        ],
+        "join_sa": "NAD",
+        "remix": [],
+        "number": 1,
+        "name": "Distant Drums",
+        "duration": 282,
+        "rating": 5,
+        "notes": null
+    },
+    {
+        "id": 106,
+        "album": 21,
+        "artists": [
+            23
+        ],
+        "join_sa": "NAD",
+        "remix": [],
+        "number": 2,
+        "name": "Sphere",
+        "duration": null,
+        "rating": null,
+        "notes": null
+    }
+]

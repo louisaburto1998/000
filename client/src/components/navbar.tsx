@@ -12,7 +12,7 @@ export function Navbar({ children }: { children: React.ReactNode }) {
     return (
         <div className="min-h-screen tracking-tighter">
             <NavBarHeader>
-                <NavBarBrand icon={admin.icon} title={admin.version} />
+                <NavBarBrand icon={admin.icon} />
                 <NavBarRoutes apps={admin.apps} />
                 <NavBarGithub url={admin.url} />
             </NavBarHeader>

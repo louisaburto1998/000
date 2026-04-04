@@ -1,0 +1,367 @@
+[
+    {
+        "id": 12,
+        "name": "Acid 909",
+        "slug": "acid-909",
+        "parent_id": null,
+        "country": "France",
+        "founded": 2018,
+        "status": "unknown",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1540081-Acid-909\"}",
+        "notes": null,
+        "releases": [
+            10
+        ],
+        "cover": "https://i.discogs.com/d4zNIdq7bmTx7LxkRXYioa_5IJ8XKui3WCviPkIG4zc/rs:fit/g:sm/q:90/h:316/w:316/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDAw/ODEtMTU3NDUzOTM2/Mi0xMDkxLmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 7,
+        "name": "Basic Channel",
+        "slug": "basic-channel",
+        "parent_id": null,
+        "country": "Germany",
+        "founded": 1993,
+        "status": "defunct",
+        "bio": "genre defining dub techno label",
+        "links": "{\"Home\":\"https://www.basicchannel.com/\",\"Discogs\":\"https://www.discogs.com/label/255-Basic-Channel\",\"Wiki\":\"https://en.wikipedia.org/wiki/Basic_Channel\"}",
+        "notes": "{\"founded\":\"Mark Ernestus & Moritz Von Oswald, Berlin\"}",
+        "releases": [],
+        "cover": "https://i.discogs.com/gZ5hC94mBsY5XZ1j67WWESOwBQB5cknAAoa7NNhAUmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NS0x/NDI5MzY4MjExLTc4/OTAuanBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 13,
+        "name": "Brothers From Different Mothers",
+        "slug": "brothers-from-different-mothers",
+        "parent_id": null,
+        "country": "France",
+        "founded": 2014,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/740596-Brothers-From-Different-Mothers\",\"Soundcloud\":\"https://soundcloud.com/bfdmrec\",\"Bandcamp\":\"https://bfdm.bandcamp.com/\"}",
+        "notes": "{\"founded\":\"Marseille\"}",
+        "releases": [
+            11
+        ],
+        "cover": "https://i.discogs.com/cU65SwakJ2bRXFZzXS8qOcGZXDSXt9T2NY0TbI6sQkQ/rs:fit/g:sm/q:90/h:149/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc0MDU5/Ni0xNDg0MDQ1NTQ4/LTMzMTguanBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 17,
+        "name": "Cide",
+        "slug": "cide",
+        "parent_id": null,
+        "country": "UK",
+        "founded": 1996,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/3372-Cide\"}",
+        "notes": null,
+        "releases": [
+            14
+        ],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 18,
+        "name": "Cool Mom Records",
+        "slug": "cool-mom-records",
+        "parent_id": null,
+        "country": "Germany",
+        "founded": 2020,
+        "status": "unknown",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1956606-Cool-Mom-Records\"}",
+        "notes": null,
+        "releases": [
+            15
+        ],
+        "cover": "https://i.discogs.com/dlj1fg-H8gdZkEpnmasDxsZYp90aq-BhPKPIBc_0emM/rs:fit/g:sm/q:90/h:178/w:279/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NTY2/MDYtMTYwNzU5MzEx/NC0xMDkwLnBuZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 21,
+        "name": "Digital Hardcore Recordings (DHR)",
+        "slug": "digital-hardcore-recordings-dhr",
+        "parent_id": null,
+        "country": "UK",
+        "founded": 1994,
+        "status": "unknown",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1094-Digital-Hardcore-Recordings-DHR\"}",
+        "notes": "{\"founded\":\"Alexander Wilke & Peter Lawton, London\"}",
+        "releases": [
+            19
+        ],
+        "cover": "https://i.discogs.com/HID8J8VVBX1oJNN59GNl-bMAtvDK5WG3iuCACI9FiHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTQt/MTE5Mjc1ODc4Ni5q/cGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/yC3JHbkH5_kww6Gis76wzh-WE59-n5mrzgIYIyHAuQ8/rs:fit/g:sm/q:90/h:242/w:508/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTQt/MTIwMDQzMDI2OS5q/cGVn.jpeg"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Doubledown Recordings",
+        "slug": "doubledown-recordings",
+        "parent_id": null,
+        "country": "USA",
+        "founded": 2000,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/627-Doubledown-Recordings\"}",
+        "notes": "{\"founded\":\"Sacramento\"}",
+        "releases": [],
+        "cover": "https://i.discogs.com/o_DIcKEAhaSlqYqJXr9VOATMWWh1pWliA34vFwJd4ik/rs:fit/g:sm/q:90/h:78/w:131/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYyNy0x/MDc2NDQwMDUxLmpw/Zw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 6,
+        "name": "Kalahari Oyster Cult",
+        "slug": "kalahari-oyster-cult",
+        "parent_id": null,
+        "country": "Belgium",
+        "founded": 2017,
+        "status": "active",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1120990-Kalahari-Oyster-Cult\",\"Soundcloud\":\"https://soundcloud.com/kalaharioystercult\",\"Bandcamp\":\"https://kalaharioystercult.bandcamp.com/\"}",
+        "notes": "{\"boss\":\"Colin Volvert\"}",
+        "releases": [
+            6
+        ],
+        "cover": "https://i.discogs.com/eODmrNBK76lQK0qnetQF-4SC2RjqhnRp_-YNJX-6exA/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjA5/OTAtMTYwNDQ0MjA2/NS00NDk4LmpwZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/GfeH7bvZ0Gd5uCcf2WXz9M3AvgBwcdJ3iEb4A91gdAw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjA5/OTAtMTQ4MzY2MDA3/OS02OTQwLmpwZWc.jpeg",
+            "https://i.discogs.com/cdgu4rcQmSOPeK5MfhU30AM8H-WH3CTDKIpG0m8ZAg4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjA5/OTAtMTQ4MTkwMDk4/MC00ODI0LmpwZWc.jpeg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Kranky",
+        "slug": "kranky",
+        "parent_id": null,
+        "country": "USA",
+        "founded": 1993,
+        "status": "active",
+        "bio": null,
+        "links": "{\"Home\":\"https://www.kranky.net/\",\"Discogs\":\"https://www.discogs.com/label/606-Kranky\",\"Soundcloud\":\"https://soundcloud.com/kranky\",\"Bandcamp\":\"https://kranky.bandcamp.com/\"}",
+        "notes": "{\"founded\":\"Bruce Adams & Joel Loeschke, Chicago\"}",
+        "releases": [
+            8
+        ],
+        "cover": "https://i.discogs.com/TFnJ25mYbVahqwTHyWEbzGZtp4ZW9J-2wkW-ghVbKn0/rs:fit/g:sm/q:90/h:257/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYwNi0x/NTg3NzYzNjEwLTE3/OTYuanBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 16,
+        "name": "LowDown Music",
+        "slug": "lowdown-music",
+        "parent_id": 15,
+        "country": "USA",
+        "founded": 2001,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/3200-LowDown-Music\"}",
+        "notes": null,
+        "releases": [
+            13
+        ],
+        "cover": "https://i.discogs.com/EkI7VMk7FCSEDcOVTcLHs29lxbhadk72d-EmfTPt4Ls/rs:fit/g:sm/q:90/h:134/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMDAt/MDAxLmdpZg.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 11,
+        "name": "Marketing Music",
+        "slug": "marketing-music",
+        "parent_id": 10,
+        "country": "France",
+        "founded": 2005,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/50715-Marketin,\"Soundcloud\":\"http://soundcloud.com/mkgmusic\"}",
+        "notes": "{\"founded\":\"Jef K & Tim Paris\"}",
+        "releases": [
+            9
+        ],
+        "cover": "https://i.discogs.com/nk2xB_QJr49PZnNTeYMb5cye_Kjh_fgO0Zhy58wV0-Y/rs:fit/g:sm/q:90/h:202/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNzE1/LTExMzA1Nzc1MDYu/Z2lm.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 2,
+        "name": "Mercury",
+        "slug": "mercury",
+        "parent_id": null,
+        "country": "USA",
+        "founded": 1945,
+        "status": "unknown",
+        "bio": "Multinational label, one of the oldest labels of the Universal Music Group.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/39357-Mercury\"}",
+        "notes": null,
+        "releases": [
+            2
+        ],
+        "cover": "https://i.discogs.com/9pDmQVrbtZYMStt99xFyWVOlPpS_XD0eYKht5v1x6H0/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTE1NjA3Mzc0Mjct/NDMwNC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/FfZJhZVYff139EocPQ0mbsg_BQOn4u9ZCMnac96JIfo/rs:fit/g:sm/q:90/h:148/w:566/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MzU3/LTEyMzUxNDg1MzAu/anBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "My King Is Light",
+        "slug": "my-king-is-light",
+        "parent_id": null,
+        "country": "Germany",
+        "founded": 2020,
+        "status": "active",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1751885-My-King-Is-Light\",\"Bandcamp\":\"https://mykingislight.bandcamp.com/\"}",
+        "notes": "{\"boss\":\"Thomas Melchior\"}",
+        "releases": [
+            3
+        ],
+        "cover": "https://f4.bcbits.com/img/0038757659_10.jpg",
+        "imgs": []
+    },
+    {
+        "id": 14,
+        "name": "Not On Label",
+        "slug": "not-on-label",
+        "parent_id": null,
+        "country": "worldwide",
+        "founded": null,
+        "status": "unknown",
+        "bio": "for any release without an offocial label",
+        "links": null,
+        "notes": null,
+        "releases": [
+            12,
+            21
+        ],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 19,
+        "name": "Ongaku Musik",
+        "slug": "ongaku-musik",
+        "parent_id": null,
+        "country": "Germany",
+        "founded": 1992,
+        "status": "unknown",
+        "bio": null,
+        "links": "{\"home\":\"http://heikomso.com/\",\"Discogs\":\"https://www.discogs.com/label/2439-Ongaku-Musik\"}",
+        "notes": "{\"founded\":\"Heiko Schäfer aka M/S/O and Atanasios Christos Macias aka Ata.\"}",
+        "releases": [],
+        "cover": "https://i.discogs.com/x804BQzsfeROrqpCe3tJSIc4Kjj_6DwdKJ6Im2FNWK4/rs:fit/g:sm/q:90/h:173/w:159/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0Mzkt/MTYzODEyNzg3NC05/ODU4LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 5,
+        "name": "Perlon",
+        "slug": "perlon",
+        "parent_id": null,
+        "country": "Germany",
+        "founded": 1997,
+        "status": "active",
+        "bio": "genre-defining minimal label",
+        "links": "{\"Home\":\"http://www.perlon.net/\",\"Discogs\":\"https://www.discogs.com/label/538-Perlon\",\"Soundcloud\":\"https://soundcloud.com/perlon-nation\"}",
+        "notes": "{\"founded\":\"Frankfurt by Markus Nikolai, Zip & Markus Rehberger\",\"based\":\"Berlin\"}",
+        "releases": [
+            5,
+            17
+        ],
+        "cover": "https://i.discogs.com/zGnKK1cHaciIZV784eV73nyOI4gqhDsX7qMfwtVfZjw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzOC0x/MjQzODgyODMwLmpw/ZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/2gj2BCbDDnWtRQCE_Fe35r_YtWTs7VHiUiT_QZ5nh0g/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzOC0x/MjU1MDIxNTQzLmdp/Zg.jpeg"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Playhouse",
+        "slug": "playhouse",
+        "parent_id": 19,
+        "country": "Germany",
+        "founded": 1993,
+        "status": "unknown",
+        "bio": "Playhouse was founded as a sisterlabel of Klang Elektronik. It focused more on the house side of things, while Klang Elektronik releases music that is more techno-orientated.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/361-Playhouse\",\"Soundcloud\":\"https://soundcloud.com/playhouse-2\"}",
+        "notes": "{\"founded\":\"Heiko Schäfer aka M/S/O and Atanasios Christos Macias aka Ata.\"}",
+        "releases": [
+            18,
+            20
+        ],
+        "cover": "https://i.discogs.com/28s1CdUK3OnkZhZmtN1CYrViFY0-OOdvPL_W3Ua8_J8/rs:fit/g:sm/q:90/h:163/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MS0x/MTUyMjc1NDk5Lmpw/ZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 8,
+        "name": "Rhythm & Sound",
+        "slug": "rhythm-sound",
+        "parent_id": 7,
+        "country": "Germany",
+        "founded": 1997,
+        "status": "defunct",
+        "bio": "Basic Channel family",
+        "links": "{\"Home\":\"https://basicchannel.com/label/Rhythm+Sound\",\"Discogs\":\"https://www.discogs.com/label/768-Rhythm-Sound\"}",
+        "notes": "{\"founded\":\"Mark Enrnestus & Moritz Von Oswald, Berlin\"}",
+        "releases": [
+            7
+        ],
+        "cover": "https://i.discogs.com/TNnMjnB0sE8b9RwM6sgczVUdxE2jMB2mc-qCkACYb8g/rs:fit/g:sm/q:90/h:555/w:555/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc2OC0x/NDI5MjkwNjk4LTU5/NDcucG5n.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 10,
+        "name": "Silver Network",
+        "slug": "silver-network",
+        "parent_id": null,
+        "country": "France",
+        "founded": 1999,
+        "status": "defunct",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/590-Silver-Network\",\"Soundcloud\":\"https://soundcloud.com/silvernetwork\"}",
+        "notes": "{\"founded\":\"DJ Jef J & Tim Paris\"}",
+        "releases": [],
+        "cover": "https://i.discogs.com/VMzJf0hfhBBujX7aka-A1BaJ0uDHjope2KdwtaSbcYs/rs:fit/g:sm/q:90/h:135/w:271/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5MC0x/Mjk1MjEwMDU0Lmpw/ZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 1,
+        "name": "Staalplaat",
+        "slug": "staalplaat",
+        "parent_id": null,
+        "country": "Netherlands",
+        "founded": 1984,
+        "status": "active",
+        "bio": "Staalplaat is a label for sound artists: an organization network with a music label, an e-zine, a radioprogram, a shop, and a mail order and distribution company, founded in Amsterdam, relocated to Berlin in 2004.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/label/1371-Staalplaat\", \"Soundcloud\":\"https://soundcloud.com/staalplaat\",\"Bandcamp\":\"https://staalplaat.bandcamp.com/\"}",
+        "notes": null,
+        "releases": [
+            1
+        ],
+        "cover": "https://i.discogs.com/EgmA-9TwHqj5v7fN1AiwudblCZIGC5ONwr1MKOOcq0Q/rs:fit/g:sm/q:90/h:600/w:472/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzEt/MTUwNTkzODM5Mi0y/NDQzLmpwZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/IS5T3GwTGGXl5NokwSf8jPjLeddx5T1TwfrApaaqfao/rs:fit/g:sm/q:90/h:150/w:170/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzEt/MTA4MDc3NDQ0MS5n/aWY.jpeg",
+            "https://i.discogs.com/_ZPGd0A13nC2_nfo6eQgG-0dkaEmvE-eqpJusquZzto/rs:fit/g:sm/q:90/h:473/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzEt/MTYzNTQ1NTc2Mi0z/MjYwLmpwZWc.jpeg",
+            "https://i.discogs.com/wLdaQ2oL7MA1qKlNhdDrB0vn4RTZsiu8b9Xwckg0xCs/rs:fit/g:sm/q:90/h:141/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNzEt/MTYzNTQ1NTgzMi02/NDgwLmpwZWc.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Trelik",
+        "slug": "trelik",
+        "parent_id": null,
+        "country": "UK",
+        "founded": 1995,
+        "status": "active",
+        "bio": "Trelik is the second record label of Peter Ford, named after a building call Trellick Tower in London.",
+        "links": "{\"home\":\"http://music.hyperreal.org/bford/trelik/\",\"Discogs\":\"https://www.discogs.com/label/2163-Trelik\"}",
+        "notes": "{\"boss\":\"Baby Ford\"}",
+        "releases": [
+            4
+        ],
+        "cover": "https://i.discogs.com/mvBBfuyhHVeXw9AmuJsPNemKxa8FDzC4L-snsmHB-VE/rs:fit/g:sm/q:90/h:262/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNjMt/MTM2Mzg3NDIwMi0y/NjgwLmdpZg.jpeg",
+        "imgs": []
+    }
+]

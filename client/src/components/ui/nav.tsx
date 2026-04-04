@@ -8,7 +8,7 @@ export function NavBarHeader({ children }: { children: React.ReactNode }) {
     return (
         <div className="fixed inset-x-0 top-0 z-10 border-b border-zinc-800">
             <div className="bg-black w-full">
-                <div className="flex h-10 items-center justify-between mx-4">
+                <div className="flex h-10 items-center justify-between mx-6">
                     {children}
                 </div>
             </div>
@@ -16,13 +16,12 @@ export function NavBarHeader({ children }: { children: React.ReactNode }) {
     );
 }
 
-export function NavBarBrand({ icon, title }: { icon: string, title: string }) {
+export function NavBarBrand({ icon }: { icon: string }) {
     const Icon = getIcon(icon) as LucideIcon;
     return (
         <div className="flex items-center gap-2">
             <Link to="/" className="flex items-center gap-2">
                 <Icon className="size-4 stroke-zinc-200 hover:stroke-teal-200" />
-                <h1 className="hidden md:block text-sm text-zinc-200 hover:text-teal-200">{title}</h1>
             </Link>
         </div>
     );
@@ -30,9 +29,9 @@ export function NavBarBrand({ icon, title }: { icon: string, title: string }) {
 
 export function NavBarRoutes({ apps }: { apps: App[] }) {
     return (
-        <div className="flex items-center gap-2 md:-ml-12">
+        <div className="flex items-center gap-4">
             {apps.map((app) => (
-                <Link key={app.title} to={app.route} className="flex items-center gap-2">
+                <Link key={app.title} to={app.route} className="flex items-center">
                     <h2 className="text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>
                 </Link>
             ))}
@@ -66,7 +65,7 @@ export function NavBarSubHeader({ children }: { children: React.ReactNode }) {
     return (
         <div className="sticky top-0 z-10 border-b border-zinc-800">
             <div className="bg-black w-full">
-                <div className="flex h-8 items-center justify-center mx-4 gap-2">
+                <div className="flex h-8 items-center justify-center mx-4 gap-6">
                     {children}
                 </div>
             </div>
@@ -77,9 +76,9 @@ export function NavBarSubHeader({ children }: { children: React.ReactNode }) {
 export function NavBarSubRoutes({ app }: { app: App }) {
     const Icon = getIcon(app.icon) as LucideIcon;
     return (
-        <Link key={app.title} to={app.route} className="flex items-center gap-1">
+        <Link key={app.title} to={app.route} className="flex items-center gap-2">
             <Icon className="size-4 stroke-zinc-200 hover:stroke-teal-200" />
-            <h2 className="text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>
+            <h2 className="hidden md:block text-sm text-zinc-200 hover:text-teal-200">{app.title}</h2>
         </Link>
     );
 }

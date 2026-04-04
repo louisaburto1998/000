@@ -1,0 +1,369 @@
+[
+    {
+        "id": 13,
+        "name": "Acid 909",
+        "slug": "acid-909",
+        "parent": null,
+        "country": "France",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/6714958-Acid-909\"}",
+        "notes": null,
+        "releases": [
+            10
+        ],
+        "appearances": [],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 5,
+        "name": "Baby Ford & Zip",
+        "slug": "baby-ford-zip",
+        "parent": null,
+        "country": null,
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/6361-Baby-Ford-Zip\"}",
+        "notes": null,
+        "releases": [
+            4
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/3QQbdFfSsOgMPtaTqMeqHvMYMI8-MuDMzM-m7yOfCEk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYzNjEt/MTQ0NzY1NzIxMy01/MTI3LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 7,
+        "name": "Basic Channel",
+        "slug": "basic-channel",
+        "parent": null,
+        "country": "Germany",
+        "bio": "genre defining dub techno duo",
+        "links": "{\"Home\":\"https://www.basicchannel.com/\",\"Discogs\":\"https://www.discogs.com/artist/13117-Basic-Channel\",\"Wiki\":\"https://en.wikipedia.org/wiki/Basic_Channel\"}",
+        "notes": null,
+        "releases": [],
+        "appearances": [],
+        "cover": "https://i.discogs.com/JPIwieHDbjTE7RLZXFSh19h-SADju4lAU3a9Ajm-754/rs:fit/g:sm/q:90/h:313/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMTE3/LTExMzc1Mjk2MDgu/anBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 22,
+        "name": "Benny Blanko",
+        "slug": "benny-blanko",
+        "parent": null,
+        "country": "UK",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/33797-Benny-Blanko\"}",
+        "notes": "{\"from\":\"Brixton\"}",
+        "releases": [
+            20
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/QSnpIjJ6BxyqFvwwec6M68g7bfVU5t_GhFwq52Ei9iI/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzNzk3/LTExMTU4NTI0MDUu/anBn.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 2,
+        "name": "Bobby Konders",
+        "slug": "bobby-konders",
+        "parent": null,
+        "country": "USA",
+        "bio": "Runs the Massive B label which was a division of Nu Groove Records for the house music Konders produced in the early 1990s.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/2590-Bobby-Kon\"Soundcloud\":\"https://soundcloud.com/user-550614355\"}",
+        "notes": "{\"based\":\"Brooklyn\"}",
+        "releases": [
+            2
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/sqJ2rE3IPxr5GLBE1-JaF-z5EkTi20SFUYgfl22GeJs/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1OTAt/MTY1OTk2Njg2MS00/NzI2LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 9,
+        "name": "Bowery Electric",
+        "slug": "bowery-electric",
+        "parent": null,
+        "country": "USA",
+        "bio": null,
+        "links": "{\"Home\":\"https://www.brainwashed.com/bowery/\",\"Discogs\":\"https://www.discogs.com/artist/3800-Bowery-Electric\",\"Soundcloud\":\"https://soundcloud.com/boweryelectricofficial\",\"Bandcamp\":\"https://boweryelectric.bandcamp.com/album/beat\"}",
+        "notes": "{\"founded\":\"NYC 1994, disbanded 2000\"}",
+        "releases": [
+            8
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/GqCyEDkN0C42_wS6vUtmFGgyIcE9hwhf0kQaxF9sW8A/rs:fit/g:sm/q:90/h:600/w:401/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM4MDAt/MTQ3ODk3ODA4OC0y/NTMyLmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 21,
+        "name": "Christoph De Babalon",
+        "slug": "christoph-de-babalon",
+        "parent": null,
+        "country": "Germany",
+        "bio": "best known for work with Digital Hardcore Recordings",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/3084-Christoph-DSoundcloud\":\"https://soundcloud.com/christoph-de-babalon\",\"Bandcamp\":\"https://christophdebabalon.bandcamp.com/\"}",
+        "notes": null,
+        "releases": [
+            19
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/RaCbn6r37yO3mEHSt1TIupwcJiBSbfIw3IyxNdcPVYY/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwODQt/MTQxNjc3NzkyMS02/NjYxLmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 15,
+        "name": "Devin Patrick",
+        "slug": "devin-patrick",
+        "parent": null,
+        "country": null,
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/6520893-Devin-Patrick-2\"}",
+        "notes": null,
+        "releases": [
+            12
+        ],
+        "appearances": [],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 14,
+        "name": "DJ Normal 4",
+        "slug": "dj-normal-4",
+        "parent": null,
+        "country": null,
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/5041276-Dj-Normal-4\",\"Soundcloud\":\"https://soundcloud.com/djnormal4\"}",
+        "notes": "{\"real name\":\"Tim Schumacher\"}",
+        "releases": [
+            11
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/G7dDBSTaSEjVS4yzzmvXKCR8vBiDQrWwkKETZnHCGeI/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwNDEy/NzYtMTQ2Mjg3MTUw/MC05MDY0LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 10,
+        "name": "Idioma",
+        "slug": "idioma",
+        "parent": null,
+        "country": "France",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/1648261-Idioma\"}",
+        "notes": null,
+        "releases": [
+            9
+        ],
+        "appearances": [],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 16,
+        "name": "LawnChair Generals",
+        "slug": "lawnchair-generals",
+        "parent": null,
+        "country": "USA",
+        "bio": "The pair met while working at Seattle's Platinum Records.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/21551-LawnChair-Generals\"}",
+        "notes": null,
+        "releases": [
+            13
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/36MFGG3VY2yxJHeq8wv7Ieqgvx7PBvKSTRoYA5cXnHY/rs:fit/g:sm/q:90/h:600/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLXJfMjE1/NTEtMDAxLmpwZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 18,
+        "name": "Maayan Nidam",
+        "slug": "maayan-nidam",
+        "parent": null,
+        "country": "Germany",
+        "bio": null,
+        "links": "{\"home\":\"https://linktr.ee/maayannidam\",\"Discogs\":\"https://www.discogs.com/artist/598741-Maayan-Nidam\"}",
+        "notes": null,
+        "releases": [],
+        "appearances": [],
+        "cover": "https://i.discogs.com/1UIhZ_K3qQw39pCp75uaYhvnN42s3lsJ2JbXFlLtgos/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU5ODc0/MS0xNDA5Nzc1ODI3/LTY1NDIuanBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 17,
+        "name": "Max Brennan",
+        "slug": "max-brennan",
+        "parent": null,
+        "country": "UK",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/1482-Max-Brennan\"}",
+        "notes": null,
+        "releases": [
+            14
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/zQIXXpGZ_jzrzcTSs9iAOOPoFOdP_6bKSAe3d0_oEBk/rs:fit/g:sm/q:90/h:160/w:210/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0ODIt/MDAxLmpwZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 4,
+        "name": "Melchior Productions Ltd",
+        "slug": "melchior-productions-ltd",
+        "parent": 3,
+        "country": "Germany",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/20115-Melchior-Productions\"}",
+        "notes": "{\"real name\":\"Thomas Melchior\"}",
+        "releases": [
+            3,
+            5
+        ],
+        "appearances": [
+            4
+        ],
+        "cover": "https://i.discogs.com/IinMt9FDTHBhoMeRsptx29r6zr5pwIu_x_E2vuc_YtI/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIwMTE1/LTE0MzUzNDg5MDIt/ODIxMi5qcGVn.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 1,
+        "name": "Muslimgauze",
+        "slug": "muslimgauze",
+        "parent": null,
+        "country": "UK",
+        "bio": "The main musical project of Bryn Jones (17 June 1961 - 14 January 1999), a British ethnic electronica and experimental musician who was influenced by conflicts and history in the Muslim world, often with an emphasis on the conflict between Israel and Palestine.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/484-Muslimgauze\",\"Bandcamp\":\"https://muslimgauze.bandcamp.com/music\",\"Wiki\":\"https://en.wikipedia.org/wiki/Muslimgauze\"}",
+        "notes": null,
+        "releases": [
+            1
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/dLildB28KXiOlOZSeRl3xDnzF8oAGK3-RZraJHMOHFU/rs:fit/g:sm/q:90/h:448/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4NC0x/NDUzNDExNzI0LTIz/MjMucG5n.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 23,
+        "name": "NAD",
+        "slug": "nad",
+        "parent": null,
+        "country": "UK",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/46876-NAD\"}",
+        "notes": null,
+        "releases": [
+            21
+        ],
+        "appearances": [],
+        "cover": null,
+        "imgs": []
+    },
+    {
+        "id": 6,
+        "name": "Reptant",
+        "slug": "reptant",
+        "parent": null,
+        "country": "Australia",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/5810968-Reptant\",\"Soundcloud\":\"https://soundcloud.com/reptant_the_lizard\"}",
+        "notes": "{\"real name\":\"Lucas Hatzisavas\"}",
+        "releases": [
+            6
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/vG5yTy4L0NRpOdlgBWHDuLDUTlV-fv6kX1DFinCZGmk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU4MTA5/NjgtMTU2Nzk1MDE1/NC04NTk4LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 8,
+        "name": "Rhythm & Sound",
+        "slug": "rhythm-sound",
+        "parent": 7,
+        "country": "Germany",
+        "bio": "genre defining dub techno duo",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/5137-Rhythm-Sound\"}",
+        "notes": "{\"notes\":\"Basic Channel family\"}",
+        "releases": [
+            7
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/TBnu6IpOGxnt8Qqu45MnaGEJT6WfY_PXYw6DWPkTW6c/rs:fit/g:sm/q:90/h:355/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxMzct/MTI0NjkxMDQwMS5q/cGVn.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 20,
+        "name": "Ricardo Villalobos",
+        "slug": "ricardo-villalobos",
+        "parent": null,
+        "country": null,
+        "bio": "Chilean-born German electronic music producer and DJ, born 6 August 1970, Santiago de Chile. In 1973, his family moved to Darmstadt, Germany. He currently resides in Berlin.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/3057-Ricardo-Villalobos\",\"Soundcloud\":https://soundcloud.com/ricardo-villalobos-official\",\"ra\":\"https://de.ra.co/dj/ricardovillalobos\"}",
+        "notes": null,
+        "releases": [
+            16,
+            17,
+            18
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/Fq1jqL-b8_PmSqEt2LvHBcdDXOVEabUfpSMfcfYpyOw/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNTct/MTQ2Nzg1OTM4My0y/MTE3LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 12,
+        "name": "Shit Robot",
+        "slug": "shit-robot",
+        "parent": null,
+        "country": "USA",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/500190-Shit-Robot\",\"Soundcloud\":\"https://soundcloud.com/shit-robot\",\"Bandcamp\":\"https://shitrobot.bandcamp.com/\"}",
+        "notes": null,
+        "releases": [],
+        "appearances": [
+            9
+        ],
+        "cover": "https://i.discogs.com/SwWu-qQXyXkNhkmYfOHrZt_gQETXc7a5XjG3gyciL6U/rs:fit/g:sm/q:90/h:374/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwMDE5/MC0xMjk0MjQ3NjU1/LmpwZWc.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 19,
+        "name": "The Waves",
+        "slug": "the-waves",
+        "parent": 18,
+        "country": "Germany",
+        "bio": null,
+        "links": "{\"home\":\"https://linktr.ee/maayannidam\":\"Discogs\":\"https://www.discogs.com/artist/316422-The-Waves\"}",
+        "notes": "{\"real name\":\"Maayan Nidam\"}",
+        "releases": [
+            15
+        ],
+        "appearances": [],
+        "cover": "https://i.discogs.com/kS2Y4QU4bAy5fG3piGDJ7F2AtxSm3BxOHzJIsLnUnTk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxNjQy/Mi0xNjcxMjQyNTkw/LTczNzYuanBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 3,
+        "name": "Thomas Melchior",
+        "slug": "thomas-melchior",
+        "parent": null,
+        "country": "Germany",
+        "bio": "legend",
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/56546-Thomas-Melchior\"}",
+        "notes": null,
+        "releases": [],
+        "appearances": [],
+        "cover": "https://i.discogs.com/CmmHYh_G4IiAMuRHIW9_MqAgUazcxfn4Fwak8M1RobI/rs:fit/g:sm/q:90/h:225/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2NTQ2/LTExNjc3MzQ0NDAu/anBlZw.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 11,
+        "name": "Tim Paris",
+        "slug": "tim-paris",
+        "parent": null,
+        "country": "France",
+        "bio": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/artist/246367-Tim-Paris\",\"Soundcloud\":\"https://soundcloud.com/tim-paris\"}",
+        "notes": null,
+        "releases": [],
+        "appearances": [
+            9
+        ],
+        "cover": "https://i.discogs.com/iXESaqsNFmDxW1_vVBeqRtdVMoY8PMYUWL41NiuE0i8/rs:fit/g:sm/q:90/h:600/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NjM2/Ny0xMzg0MjY3OTg5/LTE0NjEuanBlZw.jpeg",
+        "imgs": []
+    }
+]

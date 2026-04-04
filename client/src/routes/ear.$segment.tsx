@@ -5,5 +5,9 @@ export const Route = createFileRoute('/ear/$segment')({
 });
 
 function RouteComponent() {
-    return <div className="text-2xl font-bold text-zinc-200">Hello "/ear/$segment"!</div>;
+    return (
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2">
+
+        </div>
+    )
 }

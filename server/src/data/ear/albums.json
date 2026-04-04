@@ -1,0 +1,628 @@
+[
+    {
+        "id": 2,
+        "name": "Bad Boy Dance",
+        "slug": "bad-boy-dance",
+        "tag": "ep",
+        "catalog": null,
+        "label": 2,
+        "artists": [
+            2
+        ],
+        "join_aa": "Bobby Konders",
+        "songs": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ],
+        "year": 1992,
+        "rating": 4,
+        "genres": "House",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/101601-Bobby-Konders-Bad-Boy-Dance\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/pmhxNr6I_itLvCdfSU_3VC1SXMwnIuGHphXmsaMJ7ig/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYw/MS0xMDc3Mzg3Mjc2/LmpwZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/kDdg2rqzpmL_yzdyaU5EgnN-prJBpW6LhS_76aWNs3I/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYw/MS0xNzMwODg1Mzc1/LTQxMDIuanBlZw.jpeg",
+            "https://i.discogs.com/ZFpz5NlxwZX-DyU8emdXxDioX8QofMnWM-1OD9o-fX8/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYw/MS0xNzMwODg1Mzc0/LTYxMDIuanBlZw.jpeg",
+            "https://i.discogs.com/31_8NFRSSb2BUrXrENOXtciSMi5E7e_Qyejg6YYi_N8/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTYw/MS0xNzMwODg1Mzc0/LTUyMTkuanBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mental Command Terror",
+        "slug": "mental-command-terror",
+        "tag": "ep",
+        "catalog": "BFDM 009",
+        "label": 13,
+        "artists": [
+            14
+        ],
+        "join_aa": "DJ Normal 4",
+        "songs": [
+            54,
+            55
+        ],
+        "year": 2016,
+        "rating": 4.5,
+        "genres": "Breakbeat, Trance",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/8536394-DJ-Normal-4-Mental-Command-Terror\"}",
+        "notes": "{\"artwork\":\"Clément Bertrand\",\"mastered\":\"Etudes Clayderman\"}",
+        "cover": "https://i.discogs.com/YDLGByFtadQ6N10zWswUjCNt36vvSVHabHZuIOfLjrY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzYz/OTQtMTQ2MzU4MzA1/Ny01MTc2LmpwZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/aMdZiuubm16oX-i1ukb0c9AbFOxTYS-AyBeiq86wQLQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzYz/OTQtMTQ2NjYxNDIz/Mi05NzA4LmpwZWc.jpeg",
+            "https://i.discogs.com/s_XB6UPoPJws0mUzeO25yiJG6xRP8BjWvn-aRJpYj-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzYz/OTQtMTQ3NDIzMTgy/MS05MTIxLmpwZWc.jpeg"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "māyā",
+        "slug": "m-y",
+        "tag": "lp",
+        "catalog": "CLM 001",
+        "label": 18,
+        "artists": [
+            19
+        ],
+        "join_aa": "The Waves",
+        "songs": [
+            65,
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "year": 2020,
+        "rating": 4.5,
+        "genres": "Electro, New Wave",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/16412283-The-Waves-m%C4%81y%C4%81\"}",
+        "notes": "{\"artwork\":\"Hugo Devoucous\",\"recorded\":\"@ The Stüdchen\"}",
+        "cover": "https://i.discogs.com/c98hAxoiLwmqHrE1TF8FC7BPA3tLkh4P0r3k-Hw1hPY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEy/MjgzLTE2MDc1OTE3/NDUtNTA2NC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/HPJ-zm7wd-_PzpOcKxWw1DvM5PLPxqL-uowpFupni20/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEy/MjgzLTE2MDc1OTE3/NTMtOTEwMy5qcGVn.jpeg",
+            "https://i.discogs.com/OYOocaWnYOahWOU9mMePTIOXLlRHRmIlRvmflIDVA-A/rs:fit/g:sm/q:90/h:510/w:510/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEy/MjgzLTE2MDc1OTI2/NjAtMzU1MC5qcGVn.jpeg",
+            "https://i.discogs.com/3glDwXuHQ1snyMMrpHpEitqEK06-GhYM1bxRIYEA9xY/rs:fit/g:sm/q:90/h:510/w:510/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDEy/MjgzLTE2MDc1OTI2/ODMtOTI4Ny5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "If You're Into It, I'm Out Of It",
+        "slug": "if-you-re-into-it-i-m-out-of-it",
+        "tag": "lp",
+        "catalog": "DHR LP 008",
+        "label": 21,
+        "artists": [
+            21
+        ],
+        "join_aa": "Christoph De Babalon",
+        "songs": [
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+        ],
+        "year": 1997,
+        "rating": 4,
+        "genres": "Breakcore",
+        "format": "vinyl",
+        "description": "crucial shit.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/25243-Christoph-De-Babalon-If-Youre-Into-It-Im-Out-Of-It\"}",
+        "notes": "{\"recorded\":\"several places 1993-1996\"}",
+        "cover": "https://i.discogs.com/LFtneTD2iEaTCUa8F6woIVH8_TABRFIvKxPYUYFFi8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTEyNDI3MjM1Mjcu/anBlZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/p52CKkUv1zEDdf0VaIxNONO4peqglz-mOfFlTFvBNmQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTEyNDI3MjM1NDEu/anBlZw.jpeg",
+            "https://i.discogs.com/tyELCSpU-Q3Tg2lhPF4CHfFxDi1HTP6QeC08D-1ZYNw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3NjgwODIt/ODIyOS5qcGVn.jpeg",
+            "https://i.discogs.com/FZNuQmr19O0xuVO3DbnUjq11Zr392hUA2SYkyHQTBfg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3NjgwODEt/Mzc1MC5qcGVn.jpeg",
+            "https://i.discogs.com/zILGWwlAn56lOtk_fij5VI3sh7dhK6hlhf-yp5MxqJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3Njc0MjIt/OTQxNy5qcGVn.jpeg",
+            "https://i.discogs.com/vXqiSFMWaHS_jQjPZk6z1h0DMSh2LJpQs2xI-Twa7t0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3Njc0OTgt/NDQ1Ny5qcGVn.jpeg",
+            "https://i.discogs.com/LUamrkQIAjz8wgBxT6C6BqWRG2L538WZ0Tt8uVwA7RA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3Njc0ODYt/NDU4OS5qcGVn.jpeg",
+            "https://i.discogs.com/_mCZ236-RlFVi6VDc93iNEzd79KqJs3obpdOAx7Ypz4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MjQz/LTE0NDk3Njc0OTUt/MTUzNy5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Distant Drums / Sphere",
+        "slug": "distant-drums-sphere",
+        "tag": "ep",
+        "catalog": null,
+        "label": 14,
+        "artists": [
+            23
+        ],
+        "join_aa": "NAD",
+        "songs": [
+            105,
+            106
+        ],
+        "year": 1989,
+        "rating": 5,
+        "genres": "Deep House",
+        "format": "vinyl",
+        "description": "What must be shall come",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/190014-NAD-Distant-Drums-Sphere\"}",
+        "notes": "{\"played\":\"zip @ Magick Bar\"}",
+        "cover": "https://i.discogs.com/-v_798vIiq2N4VPk4_vF09QFFdVpM1kkgw1FmtsEvXA/rs:fit/g:sm/q:90/h:341/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDAx/NC0xMDczODM1Nzky/LmpwZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/STn3hpl8uiOxfqm4CdbaWJj65wqrDaO8WpM2MhmIYRk/rs:fit/g:sm/q:90/h:347/w:350/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDAx/NC0xMDczODM1Nzk4/LmpwZw.jpeg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "EP #1",
+        "slug": "ep-1",
+        "tag": "ep",
+        "catalog": null,
+        "label": 12,
+        "artists": [
+            13
+        ],
+        "join_aa": "Acid 909",
+        "songs": [
+            52,
+            53
+        ],
+        "year": 2018,
+        "rating": 4,
+        "genres": "Acid",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/12554473-Acid-909-EP-1-\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/0k6fsVRkhOOL1-j_sOtuEuh8eXp4m6n5odlzJ0BEyTI/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNTU0/NDczLTE1Mzc3OTAw/MjQtNzMyNS5qcGVn.jpeg",
+        "imgs": []
+    },
+    {
+        "id": 12,
+        "name": "High Flying",
+        "slug": "high-flying",
+        "tag": "ep",
+        "catalog": null,
+        "label": 14,
+        "artists": [
+            15
+        ],
+        "join_aa": "Devin Patrick",
+        "songs": [
+            56,
+            57,
+            58
+        ],
+        "year": 2003,
+        "rating": 4.5,
+        "genres": "House",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/592003-Devin-Patrick-High-Flying\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/JXCGR5qE4Tm8aDE_CJ7vF9FDlLGLeTdH4_Tr-41epNY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjAw/My0xNDk4NTMyNjM3/LTgxNjguanBlZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/yaFXnRZ6vvdD_z0pquCMlj5BDVL-phF6pYPiuNR_9H4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5MjAw/My0xNDk4NTMyNjM4/LTUyNDIuanBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Beat",
+        "slug": "beat",
+        "tag": "lp",
+        "catalog": "KRANK 014",
+        "label": 9,
+        "artists": [
+            9
+        ],
+        "join_aa": "Bowery Electric",
+        "songs": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+        ],
+        "year": 1996,
+        "rating": 4.5,
+        "genres": "Ambient, Shoegaze, Trip Hop",
+        "format": "cd",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/3134-Bowery-Electric-Beat\"}",
+        "notes": "{\"artwork\":\"'Untitled No 27' from Freeway Series\",\"produced\":\"recorded @ Studio 45, Hartford, mixed & edited @ Looking Glass, NYC\"}",
+        "cover": "https://i.discogs.com/dOin19cA3Kcqa1wlnziBG-bO03swCEDivqzWVtH113Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTQ5OTQ5ODkwMC0y/NDg4LmpwZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/ccxhaFFJ8RyvLmYSrksoos9gNYJ-UigrWBsX7f3GJ8E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTU2MDcxMTAzOC02/Mzk4LmpwZWc.jpeg",
+            "https://i.discogs.com/_DvwVohfAvLaHo75jPaZIYMoTvKgOhWPvyzj4r_ArHk/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMzQt/MTU2MDQ4Mzg0OC00/ODc2LmpwZWc.jpeg"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "The Truth EP",
+        "slug": "the-truth-ep",
+        "tag": "ep",
+        "catalog": "LDM 018",
+        "label": 16,
+        "artists": [
+            16
+        ],
+        "join_aa": "LawnChair Generals",
+        "songs": [
+            59,
+            60,
+            61
+        ],
+        "year": 2004,
+        "rating": 4.5,
+        "genres": "Tech House",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/251996-LawnChair-Generals-The-Truth-EP\"}",
+        "notes": "{\"mastered\":\"Trutone Mastering Labs\"}",
+        "cover": "https://i.discogs.com/VnvjncZ05_a_LERLOP8_qca7SRSkQ5UGXKPRdj_SHc8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/Ni0xNTc3MTgwOTA0/LTg4ODUuanBlZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/MtMnFwI_v31Sm4MSPoNxUS9acg4WDCK9n1Wkl601-wI/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/Ni0xMzg5ODgxNzUw/LTgxNjQuanBlZw.jpeg",
+            "https://i.discogs.com/X130RlsYvaWKATT1y_KL9e24lzsuKRRrAJ3mGZagiKI/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk5/Ni0xMzg5ODgxNzU4/LTY0NjQuanBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Landscapes",
+        "slug": "landscapes",
+        "tag": "ep",
+        "catalog": "MKG 009",
+        "label": 11,
+        "artists": [
+            10
+        ],
+        "join_aa": "Idioma",
+        "songs": [
+            49,
+            50,
+            51
+        ],
+        "year": 2009,
+        "rating": 4,
+        "genres": "House, Techno",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/2035922-Idioma-Landscapes\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/eAecsvQiDZQTjRly-cb95-rjDWNUqcSlP_o0LyPaY5w/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU5/MjItMTI1OTk1Mjc2/MS5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/sS9PCE8PDc7Y34RGX4R00buBuyPYIYW7mQoQADcdKxg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzU5/MjItMTI1OTk1Mjgw/MC5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Alpha And Omega EP",
+        "slug": "alpha-and-omega-ep",
+        "tag": "ep",
+        "catalog": "MKIL 006",
+        "label": 3,
+        "artists": [
+            4
+        ],
+        "join_aa": "Melchior Productions Ltd",
+        "songs": [
+            18,
+            19
+        ],
+        "year": 2023,
+        "rating": 4,
+        "genres": "Minimal",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/28335004-Melchior-Productions-Ltd-Alpha-And-Omega-EP\"}",
+        "notes": "{\"played\":\"https://youtu.be/dY0ZIw2_7og?si=e9fYql4JfeB4Q69G\"}",
+        "cover": "https://i.discogs.com/E7e_1zLPMXYdjR9vL46kKstqmlnqIw9dJaitlX0HApc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzM1/MDA0LTE2OTg4Mzg2/NzktMjI0Mi5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/0gVDJai15fz4eP7-ZaASS3eyxHtpmbfN7aUazvZnHAM/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzM1/MDA0LTE2OTg4Mzg2/NzgtOTk0NC5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Duality Of The Gecko",
+        "slug": "duality-of-the-gecko",
+        "tag": "ep",
+        "catalog": "OYSTER 050",
+        "label": 6,
+        "artists": [
+            6
+        ],
+        "join_aa": "Reptant",
+        "songs": [
+            26,
+            27
+        ],
+        "year": 2023,
+        "rating": 4,
+        "genres": "Electro",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/27862698-Reptant-Duality-Of-The-Gecko\"}",
+        "notes": "{\"mastered\":\"Anne Taegert\"}",
+        "cover": "https://i.discogs.com/r3HfE06BysqgaxJpybfpBFlMLVRZOwiWsIsorZ4r-Oo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/Njk4LTE3MjI4OTYz/NjgtNzk3MC5wbmc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/wyCQI8-QQCYn22PTwgB2QzngazLHH-LVfTvG1EBQleE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODYy/Njk4LTE3MjI4OTYz/NjgtNTg2MS5wbmc.jpeg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Galera Da Bahia (Mexe A Bunda)",
+        "slug": "galera-da-bahia-mexe-a-bunda",
+        "tag": "ep",
+        "catalog": "PERL 046",
+        "label": 5,
+        "artists": [
+            4
+        ],
+        "join_aa": "Melchior Productions Ltd",
+        "songs": [
+            24,
+            25
+        ],
+        "year": 2005,
+        "rating": 4,
+        "genres": "Minimal",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/437518-Melchior-Productions-Ltd-Galera-Da-Bahia-Mexe-A-Bunda\"}",
+        "notes": "{\"artwork\":\"Double Standards\"}",
+        "cover": "https://i.discogs.com/wIHnGmTJW-erUCju30tTErIX9f8cRMlt4_7MNWsUh-s/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzUx/OC0xNjA4OTkwODc3/LTIwOTQuanBlZw.jpeg",
+        "imgs": [
+            "https://i.discogs.com/s8OqbMbYu1zARtAnDTVTd6yokVnHEkenvBTRbKx2MZk/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNzUx/OC0xNjA4OTkwODc0/LTU2ODkuanBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Alcachofa",
+        "slug": "alcachofa",
+        "tag": "lp",
+        "catalog": "PERL 135",
+        "label": 5,
+        "artists": [
+            20
+        ],
+        "join_aa": "Ricardo Villalobos",
+        "songs": [
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87
+        ],
+        "year": 2023,
+        "rating": 5,
+        "genres": "Minimal",
+        "format": "vinyl",
+        "description": "Reissue of Ricardo Villalobos's first album Alcachofa, originally released in Sep 18, 2003 by Playhouse.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/28578964-Villalobos-Alcachofa\"}",
+        "notes": "{\"notes\":\"Ich bedanke mich bei meinem Vater, meiner Mutter, dem Rest der Familie, meiner Liebsten, meinen Freunden, meinen musikalischen Vorbildern und den niemals müden Erfindern elektronischer Instrumente. Lasst das Vinyl am Leben und nicht die Roboter unsere Arbeit tun. Ricardo\",\"artwork\":\"Double Standards\"}",
+        "cover": "https://i.discogs.com/Zo_82HXEdiGQ1n-6UBzQnbHGLMi3dPn3sNtmCH_Gbdc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTc4/NzgtNTEzMC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/dJqZ2FkQbDEws7WdCJ_16UGISTwl_PtUR79sv_E8jHs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTc4/NzgtNDgwNi5qcGVn.jpeg",
+            "https://i.discogs.com/cggDBKvZhuf7mpMLyojiplekEZskQMDGEWkUCKy-l8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtNjY5MS5qcGVn.jpeg",
+            "https://i.discogs.com/GICnuZuNedH5Srdk2CLELvfBsLzYIVLKt1wXQH2wEck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzUtOTg5Ni5qcGVn.jpeg",
+            "https://i.discogs.com/Iec5HHONUClT8U-ZxNXHvcW0rek4Nn_tL9zWfqNVQSU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtNzk2OC5qcGVn.jpeg",
+            "https://i.discogs.com/QeqYomSOrsBpw7iiuL1o6dj05OKlFFzpE9PN1y80n4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzUtNDI0MC5qcGVn.jpeg",
+            "https://i.discogs.com/-p6hFiXXMPbxu7s2OTjR42KbAmsmk4omgKmLY5BV36Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtMjIyMi5qcGVn.jpeg",
+            "https://i.discogs.com/8ac7UCm-5hujug4EfiASkUbW6uBhrOD4FEshGp4AQyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtOTI1MC5qcGVn.jpeg",
+            "https://i.discogs.com/130TkWfxZimWy9oHMxd5VS7bL7yACuG6Ll_hvSWy01w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtODQ5NC5qcGVn.jpeg",
+            "https://i.discogs.com/KKALjFIAKKwGtSXCHgFH7NYyJC87SGsE3iP6jcP5OQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTc4/OTY0LTE2OTgzMTk0/MzQtNjgxNS5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "All The Way Down",
+        "slug": "all-the-way-down",
+        "tag": "ep",
+        "catalog": "PLAY 055",
+        "label": 20,
+        "artists": [
+            22
+        ],
+        "join_aa": "Benny Blanko",
+        "songs": [
+            102,
+            103,
+            104
+        ],
+        "year": 2001,
+        "rating": 4,
+        "genres": "House",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/88651-Benny-Blanko-All-The-Way-Down\"}",
+        "notes": "{\"played\":\"zip\"}",
+        "cover": "https://i.discogs.com/-Bi1haSFnX2NfrvaHAu0ZciwMuQs9_0R3JoQDYgrECs/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjUx/LTE0NzQzNzQ1OTYt/NDUzNC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/nMEDFp1eYDQOFW6HxqdUcxIOV_GVUKPDrpWuk-8adMk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjUx/LTE0NzQzNzQ1OTkt/NTExNi5qcGVn.jpeg",
+            "https://i.discogs.com/OvSYNUk3TvFm6bGX9NoyAo0NtpWcMNszXpkYuVRe6Ws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjUx/LTE0NzQzNzQ1OTgt/ODc1Ny5qcGVn.jpeg",
+            "https://i.discogs.com/g28KLptYFCEejYAVOLZvpWOBHYGJ1EbbCB9aXgtrt3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4NjUx/LTE0NzQzNzQ2MDAt/MTM2MS5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Alcachofa Tools",
+        "slug": "alcachofa-tools",
+        "tag": "ep",
+        "catalog": "PLAY 082",
+        "label": 20,
+        "artists": [
+            20
+        ],
+        "join_aa": "Ricardo Villalobos",
+        "songs": [
+            88,
+            89,
+            90
+        ],
+        "year": 2003,
+        "rating": 4.5,
+        "genres": "Minimal",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/194548-Villalobos-Alcachofa-Tools\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/2KA_CrRYmUhurXfEweNLfsXtVkXBSbZBoxLgrxrdwbc/rs:fit/g:sm/q:90/h:513/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU0/OC0wMDIuanBn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/MmLgPKRXN-Zqw7AkG01DvnG-exJELOFiQkF-h8fxJ6s/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU0/OC0xMTYzMDE5ODY0/LmpwZWc.jpeg",
+            "https://i.discogs.com/Xl0wCu9dNPEAGOk3p8NeH2FwYbE8NzzfvRrO7fPVkGw/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU0/OC0xNDEyMzc3NDg2/LTE5NDYuanBlZw.jpeg",
+            "https://i.discogs.com/r4xqf4YRZ_bo4f-ViHL-A4UEKwPC_8H4BeBP843bx6s/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDU0/OC0xNDEyMzc3NDg2/LTUzMTcuanBlZw.jpeg"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Pull Thy Boots",
+        "slug": "pull-thy-boots",
+        "tag": "ep",
+        "catalog": null,
+        "label": 17,
+        "artists": [
+            17
+        ],
+        "join_aa": "Max Brennan",
+        "songs": [
+            62,
+            63,
+            64
+        ],
+        "year": 1996,
+        "rating": 5,
+        "genres": "Deep House",
+        "format": "vinyl",
+        "description": "The difference between an angel and a person is that an angel is mostly on the incide and a person is mostly on the outcide",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/17979-Max-Pull-Thy-Boots\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/rufdCXZbMIAS6xfmFgVj__47VkGm3ZAWDk0Yj_qLT0g/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc5/LTE0ODcxNDAxMDIt/MTMzNC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/Da3zuPKmLsTBrEWKuJYrXSzLIsHHH7qB6JmydyIAHAU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTc5/LTE0ODcxNDAwOTYt/NDA1Ny5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Rhythm & Sound",
+        "slug": "rhythm-sound",
+        "tag": "lp",
+        "catalog": "RSD 001",
+        "label": 8,
+        "artists": [
+            8
+        ],
+        "join_aa": "Rhythm & Sound",
+        "songs": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+        ],
+        "year": 2001,
+        "rating": 5,
+        "genres": "Dub Techno",
+        "format": "cd",
+        "description": "Compiles selected tracks from Rhythm & Sound 12\" releases from RS-02 to RS-06, and track 1 is from the 12\" on PK Records.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/17061-Rhythm-Sound-Rhythm-Sound\"}",
+        "notes": null,
+        "cover": "https://i.discogs.com/rCabZ9cymvPKsNCLAX3vb-FZmAK8XZI3Pyp23gB5zBs/rs:fit/g:sm/q:90/h:527/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDYt/NDk5Ny5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/K7-a_uPK92eiIKIvQeeIumbx8DHs2EvbdN6434o0280/rs:fit/g:sm/q:90/h:545/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDQt/ODMwOS5qcGVn.jpeg",
+            "https://i.discogs.com/TWrHiPbolMLbBocqGtJXogPXq-sBAW8FtYUTf7Z5H7I/rs:fit/g:sm/q:90/h:502/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MDYx/LTE2OTE4MTI5NDUt/Njg2MC5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Betrayal",
+        "slug": "betrayal",
+        "tag": "lp",
+        "catalog": "ST 058",
+        "label": 1,
+        "artists": [
+            1
+        ],
+        "join_aa": "Muslimgauze",
+        "songs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ],
+        "year": 1993,
+        "rating": 5,
+        "genres": "Experimental",
+        "format": "cd",
+        "description": "Dedicated to a united Arab response.",
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/20475-Muslimgauze-Betrayal\"}",
+        "notes": "{\"mixed\":\"Manchester, Sept. '93\"}",
+        "cover": "https://i.discogs.com/sboQ3NK09rf4VKVg4IoNyFqT7iGY1t3NAGjp0VXZiTQ/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDUt/MTEwOC5qcGVn.jpeg",
+        "imgs": [
+            "https://i.discogs.com/F7LcNtFSdDeM0VYxB9q64JwqN5Z8BDPHK3My-uoGJ8o/rs:fit/g:sm/q:90/h:478/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDQt/MTczNS5qcGVn.jpeg",
+            "https://i.discogs.com/OYRmz-D3NjF1-U1AJl7otLfSgYnvQAReyYcBYXv798g/rs:fit/g:sm/q:90/h:476/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDYt/MzcyMS5qcGVn.jpeg",
+            "https://i.discogs.com/sl66OA_6KL9gb9Yt6MGCmrRzQBdaX91xAdvXNnPxLp0/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNDc1/LTE2NzIzMzcwMDYt/ODU2OC5qcGVn.jpeg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Uff",
+        "slug": "uff",
+        "tag": "ep",
+        "catalog": "TR 024",
+        "label": 4,
+        "artists": [
+            5
+        ],
+        "join_aa": "Baby Ford & Zip",
+        "songs": [
+            20,
+            21,
+            22,
+            23
+        ],
+        "year": 2013,
+        "rating": 3.5,
+        "genres": "Minimal",
+        "format": "vinyl",
+        "description": null,
+        "links": "{\"Discogs\":\"https://www.discogs.com/release/5123392-BFZ-Uff\"}",
+        "notes": "{\"mastered\":\"CGB @ Dubplates & Mastering\"}",
+        "cover": "https://i.discogs.com/AsFa7Ndvdh7K7t81x9cxq-Xxla6o2XPPLNCULvC70ug/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjMz/OTItMTM5OTYzMDE0/Mi0yMDc4LmpwZWc.jpeg",
+        "imgs": [
+            "https://i.discogs.com/xc3PFEA7c16MsWirC9CveBfM6oZJ-AEgzPKzgkLsons/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMjMz/OTItMTM5OTYzMDE3/MC02ODk3LmpwZWc.jpeg"
+        ]
+    }
+]

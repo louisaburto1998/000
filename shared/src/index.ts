@@ -1,2 +1,3 @@
-export * from "./types/admin"
-export * from "./types/spotlight"
+export * from "./types/adminTypes"
+export * from "./types/earTypes"
+export * from "./types/spotlightTypes"
